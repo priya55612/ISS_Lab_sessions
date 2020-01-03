@@ -1,2 +1,2 @@
 # ISS_Lab_sessions
-ISS Lab
+This is a sample for the ISS Lab sessions. 
